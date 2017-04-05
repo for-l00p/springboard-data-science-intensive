@@ -1,0 +1,1 @@
+This contains a Jupyter notebook experimenting with reading in json data with nested objects. The notebook uses pandas native json read-in method, as well as the io method json_normalize. The sample data are lists of World Bank projects.
