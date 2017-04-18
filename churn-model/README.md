@@ -10,4 +10,4 @@ There are two data tables that you will need to download yourself to run the Jup
 * the [product dataset](http://downloads.dataiku.com/tutorials/v2.0/TUTORIAL_CHURN/products.csv.gz) contains a product id, three hierarchical layers of category ids, and price. 
 
 Included Jupyter notebooks:
-* Preliminary [data exploration of these datasets](Churn Model - Preliminary Data Exploration.ipynb)
+* [Preliminary data exploration] ('Churn Model - Preliminary Data Exploration.ipynb') of these datasets
