@@ -1,0 +1,1 @@
+This contains a Jupyter notebook experimenting with reading in xml data with nested objects. The notebook uses the packages pandas and xml, as there is currently no direct reader for xml into pandas. The sample data is the MONDIAL database.
