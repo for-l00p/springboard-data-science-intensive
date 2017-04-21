@@ -1,8 +1,6 @@
-# Capstone Project: Churn Modeling
+# Churn Modeling of ecommerce data
 
-I will delve into customer churn modeling for my Capstone project. 
-
-Since real data that we'd want to analyze for customer lifetime value often have sensitive information, openly available datasets are hard to find. I will use a toy dataset emulating the data that an e-business company might have. This data is from a [tutorial on Dataiku]  (https://www.dataiku.com/learn/guide/tutorials/churn-prediction.html).
+The analysis in this folder is an initial data exploration of simulated ecommerce data. This data is from a [tutorial on Dataiku]  (https://www.dataiku.com/learn/guide/tutorials/churn-prediction.html).
 
 There are two data tables that you will need to download yourself to run the Jupyter notebooks in this folder:
 
