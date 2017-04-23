@@ -1,0 +1,1 @@
+This contains a Jupyter notebook experimenting with different clustering algorithms and ways to determine if the clustering was well done or not. The notebook uses pandas, numpy, sci-kit learn, matplotlib, and seaborn. The sample data are wine offers and customer purchasing history.
