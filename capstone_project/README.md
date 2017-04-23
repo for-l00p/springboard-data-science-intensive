@@ -7,4 +7,5 @@ Since real data that we'd want to analyze for customer lifetime value often have
 The data has 15000 simulated employees. Features include Employee satisfaction level, Last evaluation, Number of projects, Average monthly hours, Time spent at the company, Whether they have had a work accident, Whether they have had a promotion in the last 5 years, Department, Salary, Whether the employee has left.
 
 Included Jupyter notebooks:
+* [Preliminary Data Exploration](01-prelim-data-exploration-medium-employee-data.ipynb) of the data
 * [Initial Data Story exploration](data-story-medium-employee-data.ipynb) of the data
