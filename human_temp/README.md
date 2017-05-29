@@ -1,0 +1,1 @@
+This contains a Jupyter notebook for using t-tests and calculating confidence intervals to explore human body temperature. The notebook uses the packages pandas, matplotlib, numpy, scipy, and seaborn.
