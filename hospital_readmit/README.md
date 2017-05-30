@@ -1,0 +1,1 @@
+This contains a Jupyter notebook for calculation of statistical significance of proportions and means to hospital readmittance. The notebook uses the packages pandas, matplotlib, numpy, scipy, statsmodels, and seaborn.
