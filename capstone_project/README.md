@@ -9,3 +9,7 @@ The data has 15000 simulated employees. Features include Employee satisfaction l
 Included Jupyter notebooks:
 * [Data exploration and machine learning modeling](machine-learning-churn-analysis-medium-employee-data.ipynb)
 * [Data story](data-story-medium-employee-data.ipynb)
+
+Documents:
+* [Report](CapstoneReport_mingness.pdf)
+* [Slide Deck](CapstoneSlideDeck_mingness.pdf)
